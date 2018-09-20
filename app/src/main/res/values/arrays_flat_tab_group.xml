@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="array_tabs_more_video">
+        <item>实时直播</item>
+        <item>直播预约</item>
+        <item>精彩回看</item>
+    </string-array>
+</resources>
